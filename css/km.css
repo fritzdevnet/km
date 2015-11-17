@@ -139,8 +139,27 @@ footer {
     -o-background-size: cover;
 }
 
+.second-slide {
+	background-color: #FFFFFF;
+    background: url('../img/bg_slider2.1.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.third-slide {
+	background-color: #FFFFFF;
+    background: url('../img/bg_slider3.1.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
 .Succeeding-slide-Bkg {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 
 }
 .carousel-control {
@@ -153,12 +172,8 @@ footer {
 
 .carousel-caption{
 	color:#2c3e50;
-	text-shadow:none;
+	text-shadow: 0 0 2px #FFFFFF;
 }
-
-.carousel-indicators{
-
-{
 
 .navbar-custom {
 padding: 0;
